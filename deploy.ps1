@@ -5,7 +5,7 @@ if (! (Test-Path Env:\APPVEYOR_REPO_TAG_NAME)) {
   exit 0
 }
 
-$image = "stefanscherer/whoami"
+$image = "stefscherer/whoami"
 
 Write-Host Starting deploy
 if (!(Test-Path ~/.docker)) { mkdir ~/.docker }
