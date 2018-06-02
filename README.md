@@ -1,7 +1,7 @@
 # whoami multi-arch image
 
-[![Build status](https://ci.appveyor.com/api/projects/status/bhma7tmx0eje73ao/branch/master?svg=true)](https://ci.appveyor.com/project/StefanScherer/whoami/branch/master)
-[![This image on DockerHub](https://img.shields.io/docker/pulls/stefanscherer/whoami.svg)](https://hub.docker.com/r/stefanscherer/whoami/)
+[![Build status](https://ci.appveyor.com/api/projects/status/8bd38sxaf3a78jod?svg=true)](https://ci.appveyor.com/project/stefscherer/whoami)
+[![This image on DockerHub](https://img.shields.io/docker/pulls/stefscherer/whoami.svg)](https://hub.docker.com/r/stefscherer/whoami/)
 
 Simple HTTP docker service that prints it's container ID - for (almost) any Docker platform
 
